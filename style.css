@@ -86,10 +86,12 @@ p.copyright {
   div.logo {
     margin-bottom: 1.5rem;
   }
+
   nav.nav ul.item {
     flex-wrap: wrap;
     justify-content: center;
   }
+
   nav.nav ul.item li.list {
     padding: 0.5rem;
   }
